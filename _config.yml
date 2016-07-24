@@ -1,0 +1,28 @@
+name: Ted Bowling
+favicon: null
+layout_spectrum: 0.889897077344358
+typography_spectrum: 0.8311611693352461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8115295050665736
+  lightness: 0.9962319112382829
+  saturation: 0.2696125104557723
+  rhythmicContrast: 0.29810934769921005
+purpose: []
